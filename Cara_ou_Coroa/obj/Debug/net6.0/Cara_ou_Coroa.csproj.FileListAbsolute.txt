@@ -1,0 +1,15 @@
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/bin/Debug/net6.0/Cara_ou_Coroa
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/bin/Debug/net6.0/Cara_ou_Coroa.deps.json
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/bin/Debug/net6.0/Cara_ou_Coroa.runtimeconfig.json
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/bin/Debug/net6.0/Cara_ou_Coroa.dll
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/bin/Debug/net6.0/Cara_ou_Coroa.pdb
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/Cara_ou_Coroa.csproj.AssemblyReference.cache
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/Cara_ou_Coroa.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/Cara_ou_Coroa.AssemblyInfoInputs.cache
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/Cara_ou_Coroa.AssemblyInfo.cs
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/Cara_ou_Coroa.csproj.CoreCompileInputs.cache
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/Cara_ou_Coroa.dll
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/refint/Cara_ou_Coroa.dll
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/Cara_ou_Coroa.pdb
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/Cara_ou_Coroa.genruntimeconfig.cache
+/home/usuario/Meus_Cursos/Meus_Projetos/Cara_ou_Coroa/obj/Debug/net6.0/ref/Cara_ou_Coroa.dll
