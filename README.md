@@ -15,7 +15,12 @@ Simulação de cadastro com CRUD(Create,Read,Update,Delete) completo e salvament
 ##
 
 ## 📖 Cadastro Produto DB - MVC com Banco de Dados - C#
-Cdastro de Produto com CRUD(Create,Read,Update,Delete) completo e salvamento no banco de dados
+Cadastro de Produto com CRUD(Create,Read,Update,Delete) completo e salvamento no banco de dados
 <div align="center">
    <img align="center"  alt="Rafa-HTML" height="350" width="650" src="https://media.discordapp.net/attachments/1022605277469626472/1107755352138715258/Peek_15-05-2023_16-37.gif?width=939&height=491">
 </div>
+
+##
+
+## Cadastro Produto API - WebApi C#
+API que realiza Cadastro de Produto com CRUD(Create,Read,Update,Delete) completo e salvamento no banco de dados.
